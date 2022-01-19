@@ -133,7 +133,7 @@
           <div class="row">
             <div class="col-lg-6 text-center text-lg-left">
               <p class="copyrights-text mb-3 mb-lg-0">
-                <small>Copyright &copy; 2019 南通锦霖工程技术有限公司</small>
+                <small>Copyright &copy; 2019 - {{ now()->year }} 南通锦霖工程技术有限公司</small>
                 <small><a href="http://beian.miit.gov.cn">苏ICP备08013754号</a></small>
               </p>
             </div>
